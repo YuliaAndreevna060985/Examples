@@ -1,0 +1,15 @@
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\bin\Debug\net6.0\Examples0.exe
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\bin\Debug\net6.0\Examples0.deps.json
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\bin\Debug\net6.0\Examples0.runtimeconfig.json
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\bin\Debug\net6.0\Examples0.dll
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\bin\Debug\net6.0\Examples0.pdb
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\obj\Debug\net6.0\Examples0.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\obj\Debug\net6.0\Examples0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\obj\Debug\net6.0\Examples0.AssemblyInfoInputs.cache
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\obj\Debug\net6.0\Examples0.AssemblyInfo.cs
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\obj\Debug\net6.0\Examples0.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\obj\Debug\net6.0\Examples0.dll
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\obj\Debug\net6.0\refint\Examples0.dll
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\obj\Debug\net6.0\Examples0.pdb
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\obj\Debug\net6.0\Examples0.genruntimeconfig.cache
+C:\Users\Артём\Desktop\GeekBrains\Лекции С#\Examples\Examples0\obj\Debug\net6.0\ref\Examples0.dll
